@@ -13,8 +13,8 @@ Welcome to my web development portfolio! I'm a full-stack developer passionate a
 - **UI/UX:** Responsive Design, Component Libraries
 
 ### Backend Development
-- **Languages:** PHP, Python
-- **Frameworks:** Flask, FastAPI
+- **Languages:** PHP, Python, JavaScript (Node.js)
+- **Frameworks:** Flask, FastAPI, Express.js
 - **Server-side Development:** API Design, Database Integration
 
 ### Database Technologies
