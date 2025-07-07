@@ -30,8 +30,10 @@ Repository Link: [Prog-Cine](https://github.com/MHND09/prog-cine-dashboard)
 A comprehensive dashboard application designed for theater owners to manage their content for a [mobile app](https://github.com/Abd-Elhakim-Arabet/Prog-Cine).
 
 ### Smart Whiteboard Eraser
-Repository Link: [Smart Whiteboard Eraser](https://github.com/yourusername/project2)
+Repository Link: [Smart Whiteboard Eraser](https://github.com/Abd-Elhakim-Arabet/board-scribe-insight-hub)
 
 The Smart Whiteboard Eraser System is an IoT-based automation solution designed to streamline the whiteboard management process in educational and corporate environments.
-The linked project is the web application for the Smart Whiteboard Eraser System, which provides a user-friendly interface for managing whiteboard content.
+The linked project is a web application for the Smart Whiteboard Eraser System, providing a user-friendly interface for managing whiteboard content. 
+
+*the other part of the system (raspberrypi) [here](https://github.com/MHND09/Eraser-Backend)*
 
